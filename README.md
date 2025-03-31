@@ -1,5 +1,5 @@
 # Introduction
-**Pytorch implementation of "M<sup>3</sup>FAS: An Accurate and Robust MultiModal Mobile Face Anti-Spoofing System", IEEE TPAMI 2025.**
+**Pytorch implementation of "Pixel-inconsistency modeling for image manipulation localization", IEEE TPAMI 2025.**
 
 # Pretrained models
 
