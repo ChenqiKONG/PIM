@@ -1,5 +1,9 @@
 # Introduction
 **Pytorch implementation of "Pixel-inconsistency modeling for image manipulation localization", IEEE TPAMI 2025.**
+<p align="center">
+ <img width="70%" src="./Fig/pim_framework.png" />
+</p>
+Proposed Pixel Inconsistency Modeling (PIM) framework for image forgery localization. 
 
 # Pretrained models
 
