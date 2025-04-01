@@ -12,8 +12,7 @@ https://drive.google.com/file/d/13hf4l7mPnbdHoIEaAtIINRx8Vy4hL_Tj/view?usp=shari
 Onedrive:
 https://entuedu-my.sharepoint.com/:u:/r/personal/chenqi_kong_staff_main_ntu_edu_sg/Documents/ckpt.pth?csf=1&web=1&e=IpPkrx
 
-Baiduyun: https://pan.baidu.com/s/15NwLwujZ57ssmTvEjwUYsw 
-PW: ubt4 
+Baiduyun: https://pan.baidu.com/s/15NwLwujZ57ssmTvEjwUYsw (PW: ubt4) 
 
 # Usage
 Download the pretrained ckpt.pth and place it under the folder 'model'.
